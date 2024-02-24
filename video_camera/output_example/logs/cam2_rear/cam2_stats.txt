@@ -1,0 +1,21 @@
+FRAME_COUNTER:
+46335
+
+PREDICTION_SCORES:
+max     = 1.0
+min     = 0.1603
+avg     = 0.9443127758610792
+median  = 0.9778
+
+OBJECTNESS_SCORES:
+max     = 0.9993
+min     = 0.5
+avg     = 0.7678397807424014
+median  = 0.7788
+
+FPS:
+max     = 31.42130260851325
+min     = 7.419581038099989
+avg     = 19.421702089583093
+median  = 19.3993034517527
+

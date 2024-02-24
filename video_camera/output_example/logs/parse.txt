@@ -1,0 +1,77 @@
+Loading network...
+Network loaded
+Detecting...
+Number of frames processed: 1
+FPS=0.31359418231495884
+
+2024-02-08 12:46:21.946322
+Number of frames processed: 208
+FPS=30.170073801268863
+
+2024-02-08 12:46:22.056646
+Number of frames processed: 209
+FPS=26.720928602827346
+
+2024-02-08 12:46:22.170309
+Number of frames processed: 210
+FPS=17.953147137506686
+
+2024-02-08 12:46:22.300349
+Number of frames processed: 211
+FPS=21.379875624426546
+
+2024-02-08 12:46:22.421530
+Number of frames processed: 212
+pred_score=tensor([[0.9134]])
+objectness score=tensor([0.5698])
+label=person, p1=(989, 231), p2=(1005, 257)
+FPS=24.98364327325145
+
+2024-02-08 12:46:22.535591
+Number of frames processed: 213
+pred_score=tensor([[0.8988]])
+objectness score=tensor([0.6702])
+label=car, p1=(503, 220), p2=(787, 306)
+FPS=25.345830085265558
+
+2024-02-08 12:46:22.649557
+Number of frames processed: 214
+pred_score=tensor([[0.8660],
+        [0.8800]])
+objectness score=tensor([0.7010, 0.5815])
+label=car, p1=(493, 222), p2=(805, 305)
+label=car, p1=(9, 218), p2=(146, 347)
+FPS=25.553054995400295
+
+2024-02-08 12:46:22.768022
+Number of frames processed: 215
+pred_score=tensor([[0.8905],
+        [0.8561],
+        [0.9176]])
+objectness score=tensor([0.5037])
+objectness score=tensor([0.6666, 0.6324])
+label=person, p1=(991, 233), p2=(1007, 257)
+label=car, p1=(492, 221), p2=(806, 303)
+label=car, p1=(10, 219), p2=(146, 348)
+FPS=25.6417868474626
+
+2024-02-08 12:46:22.885264
+Number of frames processed: 216
+pred_score=tensor([[0.8868],
+        [0.8952]])
+objectness score=tensor([0.6779, 0.5137])
+label=car, p1=(11, 216), p2=(152, 349)
+label=car, p1=(501, 221), p2=(793, 304)
+FPS=24.162407539691685
+
+2024-02-08 12:46:23.004658
+Number of frames processed: 217
+pred_score=tensor([[0.9217],
+        [0.8750],
+        [0.9547]])
+objectness score=tensor([0.5474])
+objectness score=tensor([0.7844, 0.5873])
+label=person, p1=(992, 231), p2=(1009, 258)
+label=car, p1=(11, 217), p2=(155, 348)
+label=car, p1=(500, 221), p2=(796, 305)
+FPS=23.73511852551878
