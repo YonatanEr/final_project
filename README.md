@@ -1,8 +1,10 @@
 
 Polarnet on Ouster-Os1 128 driving:
-https://github.com/YonatanEr/final_project/assets/43711624/d160523b-cea5-4aa1-a932-0dbc4ad13870
+![image](https://github.com/YonatanEr/final_project/assets/43711624/3f7ab29f-9d22-445a-9087-6c0de6c086fd)
 standby : 
-https://github.com/YonatanEr/final_project/assets/43711624/1c7ba1cd-7e29-44da-9e79-0fe505b02e5a
+![image](https://github.com/YonatanEr/final_project/assets/43711624/520b5fa7-d4f9-47a2-8f67-6517b1784826)
+
+
 
 
 
