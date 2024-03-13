@@ -37,12 +37,6 @@ optional arguments:
 
 To tune hyper parameters, change the cfg file.
 
-#### Detecting on a image or a directory containing images
-
-`python3 detector.py -i <input>`
-
-Result will be save in \<outdir\>
-
 
 demo
 
@@ -52,17 +46,8 @@ demo
 
 #### Detecting on a video or a webcam
 
-- Video `python3 detector.py -i <input> -v`
-- Webcam `python3 detector.py -v -w -i 0`
-
-This will do object detection on the video or webcam(0 is the webcam ID. Change it if you have multiple webcam connected) and show the result in real time and save the detected video with bounding boxes flying around(without audio).
-
-Note: Requires opencv. You might encounter a problem saying some function of opencv is not implemented.
-Try searching for a solution and reinstall your opencv package if needed(That is what I did).
-Add `--no-show` flag if you don't wanna see the result playing in real time or can't get opencv to work.
-
-Note: Detection running on CPU is not fast enough to show the result in real time and you probably won't be able to see the video playing in normal speed.
-But the saved video will be in normal speed for detecting on a video because it processes all the frames. For webcam however, the speed will be much faster because it loses frames.
+How to run:
+python3 detector.py -v -w -i 0 --cuda
 
 
 ## Reference
