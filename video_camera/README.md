@@ -50,6 +50,7 @@ demo
 How to run:
 
 python3 detector.py -v -w -i 0 --cuda
+
 // i controls the usb port
 
 
