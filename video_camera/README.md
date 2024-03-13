@@ -70,8 +70,3 @@ To Read More on YOLO
 - Paper [YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 - Paper [Website](https://pjreddie.com/darknet/yolo/)
 
-
-# G00D LUCK
-
-For doubts email me at:
-atinsaki@gmail.com
